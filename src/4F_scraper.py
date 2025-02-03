@@ -1,3 +1,4 @@
+# Description: Fetch and parse Form 4 insider trading data from the SEC website.
 import requests
 import pandas as pd
 import xml.etree.ElementTree as ET
@@ -125,7 +126,7 @@ def get_form4_transactions(cik, accession_number, email):
 # Example usage
 if __name__ == "__main__":
     email = "xhaxhilenzi@gmail.com"  # Replace with your email
-    cik = "0001838359"
+    cik = "0001838359" # Example CIK for Rigetti Computing
     accession_number = "0001415889-24-029293"
 
     print(f"\nFetching Form 4 for:")

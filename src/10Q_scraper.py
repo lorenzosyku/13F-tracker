@@ -48,9 +48,7 @@ def get_company_financials(ticker, email):
     company_facts_response = requests.get(company_facts_url, headers=headers)
     company_facts_data = company_facts_response.json()
 
-    # The SEC API stores shares outstanding under:
-    shares_n =company_facts_response.json()['facts']['dei']['EntityCommonStockSharesOutstanding']['units']['shares']
-    print(f"\n debuging: {shares_n}"   )
+
 
     # Financial metrics to extract
     metrics = {
