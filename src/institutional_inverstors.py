@@ -159,8 +159,8 @@ def fetch_major_shareholders(ticker, company_name):
 
 # Example usage
 if __name__ == "__main__":
-    ticker = "TLRY"
-    company_name = "Tilray Brands, Inc."
+    ticker = "IONQ"
+    company_name = "IonQ, Inc."
     
     shareholders = fetch_major_shareholders(ticker, company_name)
     
