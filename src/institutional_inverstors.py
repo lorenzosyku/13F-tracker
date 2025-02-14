@@ -8,7 +8,7 @@ import re
 class SECAPIException(Exception):
     pass
 
-def fetch_major_shareholders(ticker, company_name):
+def fetch_major_shareholders(ticker):
     """
     Fetch 13G/13D filings to identify major shareholders
     
@@ -126,7 +126,7 @@ def fetch_major_shareholders(ticker, company_name):
 
     # Main execution
     try:
-        print(f"Fetching major shareholders for {company_name} ({ticker})...")
+        print(f"Fetching major shareholders for ({ticker})...")
         
         cik = get_cik(ticker)
         print(f"Found CIK: {cik}")
@@ -159,13 +159,12 @@ def fetch_major_shareholders(ticker, company_name):
 
 # Example usage
 if __name__ == "__main__":
-    ticker = "IONQ"
-    company_name = "IonQ, Inc."
+    ticker = "PLTR"
     
-    shareholders = fetch_major_shareholders(ticker, company_name)
+    shareholders = fetch_major_shareholders(ticker)
     
     if not shareholders.empty:
-        print("\nMajor Shareholders for", company_name)
+        print("\nMajor Shareholders for", ticker)
         # Format the display output
         pd.set_option('display.max_columns', None)
         pd.set_option('display.width', None)
