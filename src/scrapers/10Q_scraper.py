@@ -96,7 +96,7 @@ def get_company_financials(ticker, email):
 # Example usage
 if __name__ == "__main__":
     email = "your.email@example.com"  # Replace with your SEC-compliant email
-    ticker = "RGTI"  # Example ticker (Rigetti Computing)
+    ticker = "ZURA"  # Example ticker (Rigetti Computing)
 
     print(f"\nFetching financial data for {ticker.upper()}...")
     
