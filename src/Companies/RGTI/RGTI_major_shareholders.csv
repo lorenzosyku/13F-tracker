@@ -1,20 +1,31 @@
-Form Type,Filing Date,Document URL,Ownership %,Shareholder Name
-SC 13G,2024-12-05,https://www.sec.gov/Archives/edgar/data/0001838359/000110465924125806/tm2430033d1_sc13g.htm,9.0,
-SC 13D/A,2024-11-27,https://www.sec.gov/Archives/edgar/data/0001838359/000119312524267168/d867344dsc13da.htm,,
-SC 13D/A,2024-11-19,https://www.sec.gov/Archives/edgar/data/0001838359/000119312524261868/d844070dsc13da.htm,,
-SC 13G/A,2023-02-13,https://www.sec.gov/Archives/edgar/data/0001838359/000093583623000181/rigetti13g.htm,9.0,
-SC 13G/A,2023-02-10,https://www.sec.gov/Archives/edgar/data/0001838359/000127308723000096/RGTI_SC13GA_2023.htm,,
-SC 13D/A,2023-01-26,https://www.sec.gov/Archives/edgar/data/0001838359/000138713123000644/rgti-sc13da_012523.htm,11.0,
-SC 13D/A,2023-01-12,https://www.sec.gov/Archives/edgar/data/0001838359/000138713123000264/rgti-sc13da_011123.htm,11.0,
-SC 13D/A,2022-09-02,https://www.sec.gov/Archives/edgar/data/0001838359/000119312522237862/d542096dsc13da.htm,,
-SC 13D/A,2022-08-31,https://www.sec.gov/Archives/edgar/data/0001838359/000138713122009405/rgti-sc13da_083022.htm,11.0,
-SC 13D/A,2022-08-22,https://www.sec.gov/Archives/edgar/data/0001838359/000138713122008941/rgti-sc13da_081922.htm,11.0,
-SC 13G,2022-04-15,https://www.sec.gov/Archives/edgar/data/0001838359/000114036122014755/brhc10036402_sc13g.htm,9.0,
-SC 13D,2022-03-14,https://www.sec.gov/Archives/edgar/data/0001838359/000119312522074712/d329822dsc13d.htm,,
-SC 13D,2022-03-14,https://www.sec.gov/Archives/edgar/data/0001838359/000119312522074639/d282772dsc13d.htm,,
-SC 13D,2022-03-14,https://www.sec.gov/Archives/edgar/data/0001838359/000138713122003635/rgti-sc13d_030222.htm,11.0,
-SC 13G,2022-03-01,https://www.sec.gov/Archives/edgar/data/0001838359/000093583622000215/snii13g.htm,9.0,
-SC 13G,2022-02-14,https://www.sec.gov/Archives/edgar/data/0001838359/000091957422001445/d9181469_13-g.htm,9.0,
-SC 13G,2022-01-13,https://www.sec.gov/Archives/edgar/data/0001838359/000127308722000005/SNII_SC13G.htm,,
-SC 13G,2021-10-18,https://www.sec.gov/Archives/edgar/data/0001838359/000101359421000755/supernova13g-101821.htm,9.0,
-SC 13G,2021-03-15,https://www.sec.gov/Archives/edgar/data/0001838359/000090266421001927/p21-0948sc13g.htm,9.0,
+Form Type,Filing Date,Document URL,Ownership %,Shares Owned,Shareholder Name
+SCHEDULE 13G/A,2025-02-13,https://www.sec.gov/Archives/edgar/data/0001838359/000157670425000004/xslSCHEDULE_13G_X01/primary_doc.xml,2.6,7221216,American Assets Investment Management, LLC
+SCHEDULE 13G/A,2025-02-07,https://www.sec.gov/Archives/edgar/data/0001838359/000164955325000042/xslSCHEDULE_13G_X01/primary_doc.xml,0,0,CVI Investments Inc.
+SC 13G,2024-12-05,https://www.sec.gov/Archives/edgar/data/0001838359/000110465924125806/tm2430033d1_sc13g.htm,8.9,25000000,CVI Investments Inc.
+SC 13D/A,2024-11-27,https://www.sec.gov/Archives/edgar/data/0001838359/000119312524267168/d867344dsc13da.htm,2.3,5224544,Bessemer Venture Partners X Institutional L.P.
+SC 13D/A,2024-11-27,https://www.sec.gov/Archives/edgar/data/0001838359/000119312524267168/d867344dsc13da.htm,2.4,5565505 ,Bessemer Venture Partners X L.P.
+SC 13D/A,2024-11-27,https://www.sec.gov/Archives/edgar/data/0001838359/000119312524267168/d867344dsc13da.htm,4.7,10790049 ,Deer X & Co. L.P.
+SC 13D/A,2024-11-27,https://www.sec.gov/Archives/edgar/data/0001838359/000119312524267168/d867344dsc13da.htm,4.7,10790049,Deer X & Co. Ltd.
+SC 13D/A,2024-11-19,https://www.sec.gov/Archives/edgar/data/0001838359/000119312524261868/d844070dsc13da.htm,4.8,9158754,Bessemer Venture Partners X Institutional L.P.
+SC 13D/A,2024-11-19,https://www.sec.gov/Archives/edgar/data/0001838359/000119312524261868/d844070dsc13da.htm,5.1,9756471,Bessemer Venture Partners X L.P.
+SC 13D/A,2024-11-19,https://www.sec.gov/Archives/edgar/data/0001838359/000119312524261868/d844070dsc13da.htm,9.8,18915225,Deer X & Co. L.P.
+SC 13D/A,2024-11-19,https://www.sec.gov/Archives/edgar/data/0001838359/000119312524261868/d844070dsc13da.htm,9.8,18915225,Deer X & Co. Ltd.
+SC 13G/A,2023-02-13,https://www.sec.gov/Archives/edgar/data/0001838359/000093583623000181/rigetti13g.htm,0,0,Beryl Capital Management LLC
+SC 13G/A,2023-02-10,https://www.sec.gov/Archives/edgar/data/0001838359/000127308723000096/RGTI_SC13GA_2023.htm,0.2, 218803,Millennium Management LLC
+SC 13D/A,2023-01-26,https://www.sec.gov/Archives/edgar/data/0001838359/000138713123000644/rgti-sc13da_012523.htm,5,6144379,Chad Rigetti
+SC 13D/A,2023-01-12,https://www.sec.gov/Archives/edgar/data/0001838359/000138713123000264/rgti-sc13da_011123.htm,5.6,6901448,Chad Rigetti
+SC 13D/A,2022-09-02,https://www.sec.gov/Archives/edgar/data/0001838359/000119312522237862/d542096dsc13da.htm,0,0,Supernova Partners II LLC
+SC 13D/A,2022-08-31,https://www.sec.gov/Archives/edgar/data/0001838359/000138713122009405/rgti-sc13da_083022.htm,6.5,8139269,Chad Rigetti
+SC 13D/A,2022-08-22,https://www.sec.gov/Archives/edgar/data/0001838359/000138713122008941/rgti-sc13da_081922.htm,7.1,8733050,Chad Rigetti
+SC 13G,2022-04-15,https://www.sec.gov/Archives/edgar/data/0001838359/000114036122014755/brhc10036402_sc13g.htm,6.7,7597645,Alumni Ventures Group LLC
+SC 13D,2022-03-14,https://www.sec.gov/Archives/edgar/data/0001838359/000119312522074712/d329822dsc13d.htm,10.9,12868000,Supernova Partners II LLC
+SC 13D,2022-03-14,https://www.sec.gov/Archives/edgar/data/0001838359/000119312522074639/d282772dsc13d.htm,9.2,10450110,Bessemer Venture Partners X Institutional L.P.
+SC 13D,2022-03-14,https://www.sec.gov/Archives/edgar/data/0001838359/000119312522074639/d282772dsc13d.htm,9.8,11132108,Bessemer Venture Partners X L.P.
+SC 13D,2022-03-14,https://www.sec.gov/Archives/edgar/data/0001838359/000119312522074639/d282772dsc13d.htm,19,21582218, Deer X & Co. L.P.
+SC 13D,2022-03-14,https://www.sec.gov/Archives/edgar/data/0001838359/000119312522074639/d282772dsc13d.htm,19,21582218,Deer X & Co. Ltd.
+SC 13D,2022-03-14,https://www.sec.gov/Archives/edgar/data/0001838359/000138713122003635/rgti-sc13d_030222.htm,6,7035552,Chad Rigetti
+SC 13G,2022-03-01,https://www.sec.gov/Archives/edgar/data/0001838359/000093583622000215/snii13g.htm,9,6228576,Beryl Capital Management LLC&LP
+SC 13G,2022-02-14,https://www.sec.gov/Archives/edgar/data/0001838359/000091957422001445/d9181469_13-g.htm,6.24,2152911,LANSDOWNE PARTNERS (UK) LLP
+SC 13G,2022-01-13,https://www.sec.gov/Archives/edgar/data/0001838359/000127308722000005/SNII_SC13G.htm,5.8,1988879,Millennium Management LLC
+SC 13G,2021-10-18,https://www.sec.gov/Archives/edgar/data/0001838359/000101359421000755/supernova13g-101821.htm,6.4,2200000,683 Capital Management LLC
+SC 13G,2021-03-15,https://www.sec.gov/Archives/edgar/data/0001838359/000090266421001927/p21-0948sc13g.htm,5.2,1800000,Empyrean Capital Overseas Master Fund Ltd.
